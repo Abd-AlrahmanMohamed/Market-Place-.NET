@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Handler", "Handler\Handler.csproj", "{D60BC19F-881B-4611-944F-FD9527B5CCB9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketPlaceApi", "CQRSWebApi\MarketPlaceApi.csproj", "{CE328B86-8C8D-4638-B1ED-64A3203B7F76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketPlaceApi", "MarketPlaceApi\MarketPlaceApi.csproj", "{CE328B86-8C8D-4638-B1ED-64A3203B7F76}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domin", "Domins\Domin.csproj", "{01E276AD-74C6-458C-86D0-8006AF0B1A1F}"
 EndProject
