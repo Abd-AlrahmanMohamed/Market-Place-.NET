@@ -1,4 +1,4 @@
-# MediatR-CQRSwithDCDWebApProject
+# MarketPlaceProject
 
 ## Overview
 **MediatR, CQRS with DCD Web API** is a robust backend solution built for manufacturing systems. It leverages the **CQRS** (Command Query Responsibility Segregation) design pattern in combination with **MediatR**, ensuring a clean architecture, scalability, and separation of concerns. This project includes advanced features like **JWT Authentication** for secure API access, **LINQ**, **Unit of Work** patterns, and adherence to **SOLID principles**.
